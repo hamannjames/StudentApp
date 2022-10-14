@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudentApp</string>
+    <string name="channel_name">Date Channel</string>
+    <string name="channel_description">Channel for notifying you of dates</string>
+</resources>
